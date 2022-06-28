@@ -1,0 +1,28 @@
+header{
+    background-color: white;
+    padding: 0;
+    border-bottom:1px solid rgb(90, 26, 7);
+}
+a{
+    color: rgb(90, 26, 7);
+}
+a:hover{
+    color: brown;
+}
+img{
+    width: 110px;
+    height: 60px;
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    font-weight: bold;
+    padding: 1em;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+}
